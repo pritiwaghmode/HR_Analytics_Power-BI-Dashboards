@@ -34,9 +34,9 @@ https://github.com/pritiwaghmode/HR_Analytics_Power-BI-Dashboards/blob/main/HR_A
 
 🔸Attrition by Education:Life science=38%, Medical:27%, Marketing:15%, Tech Degree:14%, Others:5%
 
-🔸Attrition by Salary Slab: Upto 5K:163, 5K-10K:49, 10K-15K:20,15K+🕔
+🔸Attrition by Salary Slab: Upto 5K:163, 5K-10K:49, 10K-15K:20,15K+: 5
 
-🔸Attrition by Age: 26-35:116, 18-25:44, 36-45:43, 46-55:26, 55+🎱
+🔸Attrition by Age: 26-35:116, 18-25:44, 36-45:43, 46-55:26, 55+:8 
 
 🔸Attrition by Years At Company:with 59 years is high
 
